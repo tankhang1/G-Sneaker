@@ -1,8 +1,8 @@
 # G-Sneaker
-# Run app locally
-Follow these steps below:
+# Run the app locally
+Follow the steps below:
 ```bash
-- Clone app on github
+- Clone app on GitHub
 - Open Visual Studio Code
 - npm i
 - npx react-native run-android --active-arch-only
@@ -11,7 +11,10 @@ Follow these steps below:
 Basic features:
 
 
-https://github.com/tankhang1/G-Sneaker/assets/74121720/26070b84-acd7-4a43-bb07-18488a07989c
+
+
+https://github.com/tankhang1/G-Sneaker/assets/74121720/6d3debc9-a346-4e10-9a6c-49c69cd0e49b
+
 
 Persist features:
 
